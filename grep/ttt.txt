@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+        while (i > 0)        
+        
+        for (; index < argc; index++) {
+            printf ("Non-option argument %s\n", argv[index]);
+            if (output(argv[index], grep_opt)) {
+                printf("%s: %s: %s\n", argv[0], argv[index], strerror(errno));
+                error = 1;
+            }
+        }
+
+        for (; index < argc; index++) {
+            printf ("Non-option argument %s\n", argv[index]);
+            iF (output(argv[index], grep_opt)) if {if ty
+                printf("%s: %s: %s\n", argv[0], argv[index], strerror(errno));
+                error = 1;
+            } If
+        }
+        
