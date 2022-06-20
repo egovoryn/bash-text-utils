@@ -1,5 +1,5 @@
 CC = gcc
-LCHECK=`pkg-config --cflags --libs check`
+LCHECK=-lcheck
 
 all: clean s21_cat
 
