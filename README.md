@@ -60,6 +60,7 @@ Cat is one of the most frequently used commands on Unix-like operating systems. 
 - The programs are executable files with command line arguments
 - Full coverage of library functions code with unit-tests using the Check library
 - Use a Makefile for building the library and tests (with targets all, clean, test, v1_cat, v1_grep)
+- The program has only been tested on a MacOS.
 
 &nbsp;
 <div style="text-align:center"> 
